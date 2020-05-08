@@ -13,3 +13,7 @@ https://github.com/spotify/web-api-auth-examples
 APP REGISTER LINK: 
 
 https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app
+
+TUTORIAL ON USING SPOTIFY API LIBRARY WITH REACT: 
+
+https://www.youtube.com/watch?v=prayNyuN3w0
