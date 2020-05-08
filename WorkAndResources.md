@@ -17,3 +17,9 @@ https://developer.spotify.com/documentation/general/guides/app-settings/#registe
 TUTORIAL ON USING SPOTIFY API LIBRARY WITH REACT: 
 
 https://www.youtube.com/watch?v=prayNyuN3w0
+
+** Finished walking through Authorization code tutorial, and files are for some reason not connected to git 
+
+REPOSITORY FOR JAVASCRIPT SPOTIFY WEB API: 
+
+https://github.com/jmperez/spotify-web-api-js
