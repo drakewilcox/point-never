@@ -27,3 +27,7 @@ https://github.com/jmperez/spotify-web-api-js
 BUILDING A REACT APP WITHE SPOTIFY WEB PLAYBACK API: 
 
 https://mbell.me/blog/2017-12-29-react-spotify-playback-api/
+
+RESOURCE FOR BUILDING PLAYBACK: 
+
+https://github.com/gilbarbara/react-spotify-web-playback
