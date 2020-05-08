@@ -9,3 +9,7 @@ https://developer.spotify.com/documentation/web-api/quick-start/
 
 WEB-API-AUTH-EXAMPLES GitHub: 
 https://github.com/spotify/web-api-auth-examples
+
+APP REGISTER LINK: 
+
+https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app
