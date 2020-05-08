@@ -24,6 +24,8 @@ REPOSITORY FOR JAVASCRIPT SPOTIFY WEB API:
 
 https://github.com/jmperez/spotify-web-api-js
 
+*** went through API endpoints more thoroughly to see how possible building playback through the browser would be, or if just importing a spotify playlist window will be easier. 
+
 BUILDING A REACT APP WITHE SPOTIFY WEB PLAYBACK API: 
 
 https://mbell.me/blog/2017-12-29-react-spotify-playback-api/
