@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=prayNyuN3w0
 REPOSITORY FOR JAVASCRIPT SPOTIFY WEB API: 
 
 https://github.com/jmperez/spotify-web-api-js
+
+BUILDING A REACT APP WITHE SPOTIFY WEB PLAYBACK API: 
+
+https://mbell.me/blog/2017-12-29-react-spotify-playback-api/
