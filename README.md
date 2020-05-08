@@ -8,12 +8,11 @@
 ## Installation/Setup
 
 ## Support and Contact Details
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/dustatron/quality-survey-time/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/drakewilcox/point-never/issues) here on GitHub._
 
 ## Technologies Used
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 * Components Diagram made with [Draw IO](https://draw.io/).
-* Photo by Joanna Kosinska on Unsplash
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
