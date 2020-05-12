@@ -3,7 +3,14 @@
 
 #### By Drake Wilcox
 
+## Component Flow Chart
+![component tree](PointNeverDiagram.png)
+
 ## User Stories
+* A User should be able to sign into the page via Spotify Authorization. 
+* A User should be able to view a grid of playlists with Name, description and playlist photo on the home page. 
+* A User should be able to navigate to a playlist details with a play button when clicking on a playlist on the home page. 
+* A User should be able to search a playlist by name or tags in a search bar. 
 
 ## Installation/Setup
 

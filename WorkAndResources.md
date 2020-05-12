@@ -33,3 +33,7 @@ https://mbell.me/blog/2017-12-29-react-spotify-playback-api/
 RESOURCE FOR BUILDING PLAYBACK: 
 
 https://github.com/gilbarbara/react-spotify-web-playback
+
+NEW RESOURCE TO CODE THROUGH: 
+
+https://medium.com/@natashabarsova/simple-spotify-player-in-react-b140df4a2f09
